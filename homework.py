@@ -40,6 +40,7 @@ class Inventor(db.Model):
 
 #         THIS IS HOW TO WORK WITH A DATABASE LIKE YOU WOULD WITH A CSV FILE
 #####################################################################
+"""So, the diary.db file used to be in an 'instance' folder, but sadly, I don't know how to make folders in github yet, so I will just leave it as it is"""
 engine = create_engine('sqlite:///./instance/diary.db')
 db = pd.read_sql_table('card', engine)
 
