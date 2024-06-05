@@ -1,0 +1,10 @@
+Bánki Donát;1859;porlasztó;gépészmérnök
+Bíró László József;1899;golyóstoll;újságíró
+Bláthy Ottó Titusz;1860;transzformátor;gépészmérnök
+Csonka János;1852;karburátor, gáz- és petróleummotor;gépészeti műhelyvezető
+Eötvös Lóránd;1848;torziós inga;egyetemi tanár
+Irinyi János;1817;gyufa;vegyész
+Jedlik Ányos;1800;dinamo;tanár
+Neumann János;1903;Neumann-elvek;matematikus
+Puskás Tivadar;1844;telefonközpont;gépészmérnök
+Rubik Ernő;1944;Rubik kocka;építészmérnök
